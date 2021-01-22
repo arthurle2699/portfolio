@@ -1,0 +1,10 @@
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\bin\Debug\TechSupportData.dll
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\bin\Debug\TechSupportData.pdb
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\bin\Debug\TechSupportData.xml
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\obj\Debug\TechSupportData.Resources.resources
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\obj\Debug\TechSupportData.vbproj.GenerateResource.cache
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\obj\Debug\TechSupportData.vbproj.CoreCompileInputs.cache
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\obj\Debug\TechSupportData.dll
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\obj\Debug\TechSupportData.xml
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\obj\Debug\TechSupportData.pdb
+C:\Users\ankhd\Downloads\Project-CIS232_TL\TechSupportData\obj\Debug\TechSupportData.vbprojAssemblyReference.cache
